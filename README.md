@@ -1,0 +1,6 @@
+- Assignment was completed individually in T3 2019 for COMP1511: Programming Fundamentals.
+- Task was to implement a simple paint program using basic programming techniques written in C.
+- This project had a focus on increasing understanding of basic programming techniques.
+- A project spec could not be retrieved as the assignment was completed too long ago.
+- Application is very difficult to run outside of a unsw cse machine (as it was run using provided locked files and cse machine commands)
+- A final mark of 88.9/100 was awarded and was worth 13% of grade.
